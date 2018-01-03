@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("commitng from mac");
+		System.out.println("commitng from pc");
 
 	}
 
